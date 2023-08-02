@@ -1,0 +1,24 @@
+.containerCard{
+  width: 40%;
+  background: rgba(5, 167, 118, 0.829);
+  display: flex;
+  margin-top: 2rem;
+  border-radius: 3px;
+  justify-content: space-between;
+  padding: 1rem;
+  color: #fff;
+  align-items: center;
+}
+
+.containerCard span{
+  background: rgba(4, 117, 118, 0.829);
+  padding: 8px;
+  border-radius: 50%;
+  cursor: pointer;
+  
+}
+
+.containerCard span:hover{
+  background-color: rgba(70, 195, 197, 0.829);
+
+}
